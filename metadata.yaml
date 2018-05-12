@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1074
     wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
 description: 'The unseen bridegroom: or, wedded for a week. -- His broken promise'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15875#The-Unseen-Bridegroom--Or-Wedded-For-a-Week
 gutenberg_issued: '2005-05-22'
 gutenberg_type: Text
 identifiers:
