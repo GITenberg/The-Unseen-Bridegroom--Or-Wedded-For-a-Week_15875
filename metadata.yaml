@@ -1,0 +1,31 @@
+_repo: The-Unseen-Bridegroom--Or-Wedded-For-a-Week_15875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fleming, May Agnes
+    aliases:
+    - Earlie, M. A. (May Agnes)
+    - Carleton, May
+    - Fleming, May A. (May Agnes)
+    birthdate: 1840
+    deathdate: 1880
+    gutenberg_agent_id: '1074'
+    url: http://www.gutenberg.org/2009/agents/1074
+    wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
+description: 'The unseen bridegroom: or, wedded for a week. -- His broken promise'
+gutenberg_issued: '2005-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Unseen Bridegroom; Or, Wedded For a Week
+url: http://www.gutenberg.org/ebooks/15875
